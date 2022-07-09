@@ -1,4 +1,4 @@
 # Bootstrap
 ## Preview
 ![desktoppreview](img\DesktopPreview.PNG)
-##### A practical use of bootstrap
+##### A simple website with bootstrap
